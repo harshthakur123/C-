@@ -1,0 +1,10 @@
+
+name - Harsh
+empno - 12714320
+salary - 10000
+name - Harsh
+empno - 12714320
+salary - 10000
+name - Akash
+empno - 12714320
+salary - 5000

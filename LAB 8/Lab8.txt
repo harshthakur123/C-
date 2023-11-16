@@ -1,0 +1,20 @@
+1 Write a program to store characters 'A' to 'Z' in the file .
+   Display the contents of file.
+
+2. Create class cEmployee with data members as empno,name and salary.
+   Accept values from user. Store it in file.
+   Display the contents from file.
+   Program should be able to store information of multiple employees.
+
+3:Write a program to copy the contents of one file and write it into another file and print it.
+
+4:Create a C++ program that does the following:
+Initializes an empty vector of integers.
+Asks the user to enter a series of integers and adds them to the vector until the user enters a specific sentinel value (e.g., -1).
+Prints the elements of the vector.
+Calculates and prints the sum and average of the values in the vector.
+
+5:Defines a Student class with attributes like name, age, and grade.
+Initializes a vector of Student objects.
+Allows the user to add new students to the vector with their name, age, and grade.
+Prints the list of students.
